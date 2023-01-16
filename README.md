@@ -1,5 +1,5 @@
 # backend
-Det här är startpunkten för IAs backend kurs 21-22
+Det här är startpunkten för IAs backend kurs 22-23
 
 Jag kommer att jobba vidare på den här genom kursen, och det kan ni ju också.
 
