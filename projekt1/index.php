@@ -13,6 +13,12 @@
     <div id="container">
         <!-- Max 800px bred container-->
 
+        <?php
+        
+        
+
+        ?>
+
         <header>
             <!-- Logo och meny i headern -->
             <img src="../media/logo.svg" alt="Website logo" />
@@ -43,6 +49,11 @@
                 <h2>Bloggen - Inlägg 2</h2>
                 <p>Elcyklar och solkraft</p>
             </article>
+
+            <form action="hello.php" method="POST">
+                text:<input type="text" name="text"><br>
+                <input type="submit">
+            </form>
 
         </section>
 
